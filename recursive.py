@@ -8,3 +8,4 @@ def sumDigits(sum):
 Inputer= int(input("Enter an integer: "))
 result = sumDigits(Inputer)
 print(f"The sum of the digits in {Inputer} is {result}.")
+enter = []

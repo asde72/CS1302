@@ -1,4 +1,4 @@
-from tkinter import Tk, Text
+from tkinter import Tk, Text, END
 
 root = Tk()
 

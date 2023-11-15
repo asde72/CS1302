@@ -1,0 +1,1983 @@
+[
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "Tk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Label",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Entry",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "NORMAL",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "DISABLED",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "font",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Tk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Tk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Entry",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Label",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Tk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Label",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "RAISED",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Tk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Entry",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Label",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Tk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Label",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "PhotoImage",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Tk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Label",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Entry",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "NORMAL",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "DISABLED",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "font",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Tk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "showinfo",
+        "importPath": "tkinter.messagebox",
+        "description": "tkinter.messagebox",
+        "isExtraImport": true,
+        "detail": "tkinter.messagebox",
+        "documentation": {}
+    },
+    {
+        "label": "showinfo",
+        "importPath": "tkinter.messagebox",
+        "description": "tkinter.messagebox",
+        "isExtraImport": true,
+        "detail": "tkinter.messagebox",
+        "documentation": {}
+    },
+    {
+        "label": "showinfo",
+        "importPath": "tkinter.messagebox",
+        "description": "tkinter.messagebox",
+        "isExtraImport": true,
+        "detail": "tkinter.messagebox",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "size",
+        "importPath": "numpy",
+        "description": "numpy",
+        "isExtraImport": true,
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Location",
+        "kind": 6,
+        "importPath": "HW1.JORDAN_GAFFNEY_Homework1",
+        "description": "HW1.JORDAN_GAFFNEY_Homework1",
+        "peekOfCode": "class Location:\n    #TODO: Implement the Location class according to the given UML class diagram and descriptions\n    def __init__(self,x,y):\n        self.x = x\n        self.y = y\n    def __str__(self):\n        return f'({self.x},{self.y})'\nclass Car:\n    #TODO: Implement the Car class according to the given UML class diagram and descriptions\n    def __init__(self,name,location,cost):",
+        "detail": "HW1.JORDAN_GAFFNEY_Homework1",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "HW1.JORDAN_GAFFNEY_Homework1",
+        "description": "HW1.JORDAN_GAFFNEY_Homework1",
+        "peekOfCode": "class Car:\n    #TODO: Implement the Car class according to the given UML class diagram and descriptions\n    def __init__(self,name,location,cost):\n        self.car_name = name\n        self.location = location\n        self.cost_per_mile = cost\n    def __str__(self):\n        return f'[{self.car_name}, {self.location}, {self.cost_per_mile}]'\n    def move_to(self, new_x, new_y):\n        self.location.x = new_x",
+        "detail": "HW1.JORDAN_GAFFNEY_Homework1",
+        "documentation": {}
+    },
+    {
+        "label": "Passenger",
+        "kind": 6,
+        "importPath": "HW1.JORDAN_GAFFNEY_Homework1",
+        "description": "HW1.JORDAN_GAFFNEY_Homework1",
+        "peekOfCode": "class Passenger:\n    #TODO: Implement the Passenger class according to the given UML class diagram and descriptions\n    def __init__(self, name, location):\n        self.passenger_name = name\n        self.location = location\n    def __str__(self):\n        return f'{self.passenger_name},{self.location}'\n    def move_to(self, new_x, new_y):\n        self.location.x = new_x\n        self.location.y = new_y",
+        "detail": "HW1.JORDAN_GAFFNEY_Homework1",
+        "documentation": {}
+    },
+    {
+        "label": "RideSharingApp",
+        "kind": 6,
+        "importPath": "HW1.JORDAN_GAFFNEY_Homework1",
+        "description": "HW1.JORDAN_GAFFNEY_Homework1",
+        "peekOfCode": "class RideSharingApp:\n    #TODO: Implement the RideSharingApp class according to the given UML class diagram and descriptions\n    def __init__(self):\n        self.cars = []\n        self.passengers = []\n    def add_car(self,car):\n        self.cars.append(car)\n    def add_passenger(self, passenger):\n        self.passengers.append(passenger) \n    def remove_car(self, car):",
+        "detail": "HW1.JORDAN_GAFFNEY_Homework1",
+        "documentation": {}
+    },
+    {
+        "label": "location1",
+        "kind": 5,
+        "importPath": "HW1.JORDAN_GAFFNEY_Homework1",
+        "description": "HW1.JORDAN_GAFFNEY_Homework1",
+        "peekOfCode": "location1 = Location(2,1)\nlocation2 = Location(-4,1)\ncar1 = Car('car1', location1, 00.61)\ncar2 = Car('car2', location2, 0.50)\nprint('Car object 1 created:',car1)\nprint('Car object 2 created:', car2)\nlocation3 = Location(-2,3)\nlocation4 = Location(0,0)\npassenger1 = Passenger('passenger1', location3)\npassenger2 = Passenger('passenger2', location4)",
+        "detail": "HW1.JORDAN_GAFFNEY_Homework1",
+        "documentation": {}
+    },
+    {
+        "label": "location2",
+        "kind": 5,
+        "importPath": "HW1.JORDAN_GAFFNEY_Homework1",
+        "description": "HW1.JORDAN_GAFFNEY_Homework1",
+        "peekOfCode": "location2 = Location(-4,1)\ncar1 = Car('car1', location1, 00.61)\ncar2 = Car('car2', location2, 0.50)\nprint('Car object 1 created:',car1)\nprint('Car object 2 created:', car2)\nlocation3 = Location(-2,3)\nlocation4 = Location(0,0)\npassenger1 = Passenger('passenger1', location3)\npassenger2 = Passenger('passenger2', location4)\nprint('Passenger object 1 created:', passenger1)",
+        "detail": "HW1.JORDAN_GAFFNEY_Homework1",
+        "documentation": {}
+    },
+    {
+        "label": "car1",
+        "kind": 5,
+        "importPath": "HW1.JORDAN_GAFFNEY_Homework1",
+        "description": "HW1.JORDAN_GAFFNEY_Homework1",
+        "peekOfCode": "car1 = Car('car1', location1, 00.61)\ncar2 = Car('car2', location2, 0.50)\nprint('Car object 1 created:',car1)\nprint('Car object 2 created:', car2)\nlocation3 = Location(-2,3)\nlocation4 = Location(0,0)\npassenger1 = Passenger('passenger1', location3)\npassenger2 = Passenger('passenger2', location4)\nprint('Passenger object 1 created:', passenger1)\nprint('Passenger object 2 created:', passenger2)",
+        "detail": "HW1.JORDAN_GAFFNEY_Homework1",
+        "documentation": {}
+    },
+    {
+        "label": "car2",
+        "kind": 5,
+        "importPath": "HW1.JORDAN_GAFFNEY_Homework1",
+        "description": "HW1.JORDAN_GAFFNEY_Homework1",
+        "peekOfCode": "car2 = Car('car2', location2, 0.50)\nprint('Car object 1 created:',car1)\nprint('Car object 2 created:', car2)\nlocation3 = Location(-2,3)\nlocation4 = Location(0,0)\npassenger1 = Passenger('passenger1', location3)\npassenger2 = Passenger('passenger2', location4)\nprint('Passenger object 1 created:', passenger1)\nprint('Passenger object 2 created:', passenger2)\nmobileApp = RideSharingApp()",
+        "detail": "HW1.JORDAN_GAFFNEY_Homework1",
+        "documentation": {}
+    },
+    {
+        "label": "location3",
+        "kind": 5,
+        "importPath": "HW1.JORDAN_GAFFNEY_Homework1",
+        "description": "HW1.JORDAN_GAFFNEY_Homework1",
+        "peekOfCode": "location3 = Location(-2,3)\nlocation4 = Location(0,0)\npassenger1 = Passenger('passenger1', location3)\npassenger2 = Passenger('passenger2', location4)\nprint('Passenger object 1 created:', passenger1)\nprint('Passenger object 2 created:', passenger2)\nmobileApp = RideSharingApp()\nmobileApp.add_car(car1)\nmobileApp.add_car(car2)\nmobileApp.add_passenger(passenger1)",
+        "detail": "HW1.JORDAN_GAFFNEY_Homework1",
+        "documentation": {}
+    },
+    {
+        "label": "location4",
+        "kind": 5,
+        "importPath": "HW1.JORDAN_GAFFNEY_Homework1",
+        "description": "HW1.JORDAN_GAFFNEY_Homework1",
+        "peekOfCode": "location4 = Location(0,0)\npassenger1 = Passenger('passenger1', location3)\npassenger2 = Passenger('passenger2', location4)\nprint('Passenger object 1 created:', passenger1)\nprint('Passenger object 2 created:', passenger2)\nmobileApp = RideSharingApp()\nmobileApp.add_car(car1)\nmobileApp.add_car(car2)\nmobileApp.add_passenger(passenger1)\nmobileApp.add_passenger(passenger2)",
+        "detail": "HW1.JORDAN_GAFFNEY_Homework1",
+        "documentation": {}
+    },
+    {
+        "label": "passenger1",
+        "kind": 5,
+        "importPath": "HW1.JORDAN_GAFFNEY_Homework1",
+        "description": "HW1.JORDAN_GAFFNEY_Homework1",
+        "peekOfCode": "passenger1 = Passenger('passenger1', location3)\npassenger2 = Passenger('passenger2', location4)\nprint('Passenger object 1 created:', passenger1)\nprint('Passenger object 2 created:', passenger2)\nmobileApp = RideSharingApp()\nmobileApp.add_car(car1)\nmobileApp.add_car(car2)\nmobileApp.add_passenger(passenger1)\nmobileApp.add_passenger(passenger2)\nprint('-----------------------Scenario 1---------------------')",
+        "detail": "HW1.JORDAN_GAFFNEY_Homework1",
+        "documentation": {}
+    },
+    {
+        "label": "passenger2",
+        "kind": 5,
+        "importPath": "HW1.JORDAN_GAFFNEY_Homework1",
+        "description": "HW1.JORDAN_GAFFNEY_Homework1",
+        "peekOfCode": "passenger2 = Passenger('passenger2', location4)\nprint('Passenger object 1 created:', passenger1)\nprint('Passenger object 2 created:', passenger2)\nmobileApp = RideSharingApp()\nmobileApp.add_car(car1)\nmobileApp.add_car(car2)\nmobileApp.add_passenger(passenger1)\nmobileApp.add_passenger(passenger2)\nprint('-----------------------Scenario 1---------------------')\nmobileApp.find_cheapest_car(passenger1)",
+        "detail": "HW1.JORDAN_GAFFNEY_Homework1",
+        "documentation": {}
+    },
+    {
+        "label": "mobileApp",
+        "kind": 5,
+        "importPath": "HW1.JORDAN_GAFFNEY_Homework1",
+        "description": "HW1.JORDAN_GAFFNEY_Homework1",
+        "peekOfCode": "mobileApp = RideSharingApp()\nmobileApp.add_car(car1)\nmobileApp.add_car(car2)\nmobileApp.add_passenger(passenger1)\nmobileApp.add_passenger(passenger2)\nprint('-----------------------Scenario 1---------------------')\nmobileApp.find_cheapest_car(passenger1)\nmobileApp.find_cheapest_car(passenger2)\nmobileApp.find_nearest_car(passenger1)\nmobileApp.find_nearest_car(passenger2)",
+        "detail": "HW1.JORDAN_GAFFNEY_Homework1",
+        "documentation": {}
+    },
+    {
+        "label": "Vehicle",
+        "kind": 6,
+        "importPath": "HW2.JORDAN_GAFFNEY_HW2",
+        "description": "HW2.JORDAN_GAFFNEY_HW2",
+        "peekOfCode": "class Vehicle:\n    def __init__(self,make =\"\", model = \"\", year = 0):\n        self.make = make\n        self.model = model\n        self.year = year\n    def get_info(self):\n        print(self.make, self.model, self.year)\n    def __lt__(self, other):\n        if self.year <  other.year:\n            return True",
+        "detail": "HW2.JORDAN_GAFFNEY_HW2",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "HW2.JORDAN_GAFFNEY_HW2",
+        "description": "HW2.JORDAN_GAFFNEY_HW2",
+        "peekOfCode": "class Car(Vehicle):\n    def __init__(self,make = \"\", model = \"\", year = 0, num_doors = 0):\n        Vehicle.__init__(self,make , model , year)\n        self.num_doors = num_doors\n    def honk(self):\n        print(\"Honk! Honk! From Car\")\n    def get_info(self):\n        print(self.make, self.model, self.year,self.num_doors)\nclass Motorcycle(Vehicle):\n    def __init__(self,make , model  , year, type  ) :",
+        "detail": "HW2.JORDAN_GAFFNEY_HW2",
+        "documentation": {}
+    },
+    {
+        "label": "Motorcycle",
+        "kind": 6,
+        "importPath": "HW2.JORDAN_GAFFNEY_HW2",
+        "description": "HW2.JORDAN_GAFFNEY_HW2",
+        "peekOfCode": "class Motorcycle(Vehicle):\n    def __init__(self,make , model  , year, type  ) :\n        Vehicle.__init__(self,make , model  , year)\n        self.type = type\n    def honk(self):\n        print(\"Honk! Honk! From Motorcycle\")\n    def get_info(self):\n        print(self.make, self.model, self.year,self.type)\nclass Truck(Vehicle):\n    def __init__(self,make , model , year,capacity) :",
+        "detail": "HW2.JORDAN_GAFFNEY_HW2",
+        "documentation": {}
+    },
+    {
+        "label": "Truck",
+        "kind": 6,
+        "importPath": "HW2.JORDAN_GAFFNEY_HW2",
+        "description": "HW2.JORDAN_GAFFNEY_HW2",
+        "peekOfCode": "class Truck(Vehicle):\n    def __init__(self,make , model , year,capacity) :\n        Vehicle.__init__(self,make, model , year)\n        self.capacity = capacity\n    def honk(self):\n        print(\"Honk! Honk! From Truck\")\n    def get_info(self):\n        print(self.make, self.model, self.year,self.capacity)\n    def __lt__(self, other):\n        if self.capacity < other.capacity:",
+        "detail": "HW2.JORDAN_GAFFNEY_HW2",
+        "documentation": {}
+    },
+    {
+        "label": "PickupTruck",
+        "kind": 6,
+        "importPath": "HW2.JORDAN_GAFFNEY_HW2",
+        "description": "HW2.JORDAN_GAFFNEY_HW2",
+        "peekOfCode": "class PickupTruck(Car,Truck):\n    def __init__(self,make,model,year, num_doors,capacity,has_cover = False,):\n        Car.__init__(self, num_doors,make,model,year)\n        Truck.__init__(self, capacity,make,model,year)\n        self.has_cover = has_cover\n        self.num_doors = num_doors\n        self.capacity = capacity\n    def honk(self):\n        print(\"Honk! Honk! From Pickup Truck\")\n    def get_info(self):",
+        "detail": "HW2.JORDAN_GAFFNEY_HW2",
+        "documentation": {}
+    },
+    {
+        "label": "Cars",
+        "kind": 5,
+        "importPath": "HW2.JORDAN_GAFFNEY_HW2",
+        "description": "HW2.JORDAN_GAFFNEY_HW2",
+        "peekOfCode": "Cars = Car(\"Toyota\", \"Camry\", 2020, 4)\nMotorcycles = Motorcycle (\"Honda\", \"CBR1000RR\", 2021,\"Sport\")\nTrucks = Truck (\"Ford\", \"F-150\", 2019,10)\nPickupTrucks= PickupTruck(\"Chevrolet\", \"Silverado\", 2022, 4, 12, True)\nCars.honk()\nMotorcycles.honk()\nTrucks.honk()\nPickupTrucks.honk()\nprint(Cars.get_info())\nprint(Motorcycles.get_info())",
+        "detail": "HW2.JORDAN_GAFFNEY_HW2",
+        "documentation": {}
+    },
+    {
+        "label": "Motorcycles",
+        "kind": 5,
+        "importPath": "HW2.JORDAN_GAFFNEY_HW2",
+        "description": "HW2.JORDAN_GAFFNEY_HW2",
+        "peekOfCode": "Motorcycles = Motorcycle (\"Honda\", \"CBR1000RR\", 2021,\"Sport\")\nTrucks = Truck (\"Ford\", \"F-150\", 2019,10)\nPickupTrucks= PickupTruck(\"Chevrolet\", \"Silverado\", 2022, 4, 12, True)\nCars.honk()\nMotorcycles.honk()\nTrucks.honk()\nPickupTrucks.honk()\nprint(Cars.get_info())\nprint(Motorcycles.get_info())\nprint(Trucks.get_info())",
+        "detail": "HW2.JORDAN_GAFFNEY_HW2",
+        "documentation": {}
+    },
+    {
+        "label": "Trucks",
+        "kind": 5,
+        "importPath": "HW2.JORDAN_GAFFNEY_HW2",
+        "description": "HW2.JORDAN_GAFFNEY_HW2",
+        "peekOfCode": "Trucks = Truck (\"Ford\", \"F-150\", 2019,10)\nPickupTrucks= PickupTruck(\"Chevrolet\", \"Silverado\", 2022, 4, 12, True)\nCars.honk()\nMotorcycles.honk()\nTrucks.honk()\nPickupTrucks.honk()\nprint(Cars.get_info())\nprint(Motorcycles.get_info())\nprint(Trucks.get_info())\nprint(PickupTrucks.get_info())",
+        "detail": "HW2.JORDAN_GAFFNEY_HW2",
+        "documentation": {}
+    },
+    {
+        "label": "chooseOption",
+        "kind": 2,
+        "importPath": "HW4.hw4",
+        "description": "HW4.hw4",
+        "peekOfCode": "def chooseOption():\n    print('--- --- --- Main Menu --- --- ---')\n    option = input('Choose option:\\n' \\\n         '[1] Create new text file\\n' \\\n         '[2] Read text file content\\n'\n         '[3] Append to text file\\n'\n         '[4] Search text file\\n' \\\n         '[5] Export to CSV\\n' \\\n         '[6] Exit program\\n'\n         'option = ')",
+        "detail": "HW4.hw4",
+        "documentation": {}
+    },
+    {
+        "label": "option",
+        "kind": 5,
+        "importPath": "HW4.hw4",
+        "description": "HW4.hw4",
+        "peekOfCode": "option = chooseOption()\nwhile option != '6':\n    if option == '1': #Create\n        pass\n        try:\n                filenamecreate  = str(input(\"What is the file name?\"))\n                with open(filenamecreate, 'w') as f:\n                    pass\n        except:\n            print('An error occurred during the CREATE operation!')",
+        "detail": "HW4.hw4",
+        "documentation": {}
+    },
+    {
+        "label": "addstudents",
+        "kind": 2,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "def addstudents():\n    pantheridvar = pantherid.get()\n    namevar = name.get()\n    emailvar = email.get()\n    cursor.execute('INSERT INTO students (pantherid, name, email) VALUES (?, ?, ?)', (pantheridvar, namevar, emailvar))\n    connect.commit()\n    showinfo(message='Student record added.')\n    pantherid.delete(0,END)\n    name.delete(0,END)\n    email.delete(0,END)",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "list_students",
+        "kind": 2,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "def list_students():\n   cursor.execute('SELECT * FROM students')\n   records = cursor.fetchall()\n   OutputText.config(state=NORMAL)\n   OutputText.delete(1.0, END)\n   timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')\n   OutputText.insert(END, f'Student List as of {timestamp}\\n')\n   for record in records:\n        OutputText.insert(END,   f\"PantherID: {record[0]}\\nName: {record[1]}\\nEmail: {record[2]}\\n\\n\")\ndef export_students():",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "export_students",
+        "kind": 2,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "def export_students():\n        try:    \n#brought from Hw 4\n             #      filenameread = 'studentrecords.db'\n                cursor.execute('SELECT * FROM students')\n                records = cursor.fetchall()\n                filenameCSV = 'student.csv'\n                with open(filenameCSV, 'w', newline='') as csv_file:\n                    if not filenameCSV.lower().endswith(\".csv\"):\n                        filenameCSV += \".csv\"",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "connect",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "connect = sqlite3.connect('studentrecords.db')\ncursor = connect.cursor()\n#CREATE DATABASE FILE\ncursor.execute('''CREATE TABLE IF NOT EXISTS students (pantherid INTEGER\nPRIMARY KEY, name TEXT, email TEXT)''')\nconnect.commit()\n#create and intialize gui\nroot = Tk()\nroot.title(\"GSU STUDENT RECRODS\")\nroot.geometry(\"1048x700\")",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "cursor = connect.cursor()\n#CREATE DATABASE FILE\ncursor.execute('''CREATE TABLE IF NOT EXISTS students (pantherid INTEGER\nPRIMARY KEY, name TEXT, email TEXT)''')\nconnect.commit()\n#create and intialize gui\nroot = Tk()\nroot.title(\"GSU STUDENT RECRODS\")\nroot.geometry(\"1048x700\")\n#add font ",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "root = Tk()\nroot.title(\"GSU STUDENT RECRODS\")\nroot.geometry(\"1048x700\")\n#add font \n#create font\ncustom_font = font.nametofont(\"TkDefaultFont\") # Start with the default font\ncustom_font.configure(size=18) # Set the desired font size\nroot.option_add(\"*Font\", custom_font)\n#Entries and Labels\nlabel1 = Label(root, text= \"Panther ID\")",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "custom_font",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "custom_font = font.nametofont(\"TkDefaultFont\") # Start with the default font\ncustom_font.configure(size=18) # Set the desired font size\nroot.option_add(\"*Font\", custom_font)\n#Entries and Labels\nlabel1 = Label(root, text= \"Panther ID\")\nlabel2 = Label(root, text= \"Name\")\nlabel3 = Label(root, text= \"Email\")\npantherid = Entry(root)\nname = Entry(root)\nemail = Entry(root)",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "label1",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "label1 = Label(root, text= \"Panther ID\")\nlabel2 = Label(root, text= \"Name\")\nlabel3 = Label(root, text= \"Email\")\npantherid = Entry(root)\nname = Entry(root)\nemail = Entry(root)\n#Create Buttons\naddstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nsearchRecordButton = Button(root, text=\"Search Record\")",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "label2",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "label2 = Label(root, text= \"Name\")\nlabel3 = Label(root, text= \"Email\")\npantherid = Entry(root)\nname = Entry(root)\nemail = Entry(root)\n#Create Buttons\naddstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nsearchRecordButton = Button(root, text=\"Search Record\")\ndeleteRecordButton = Button(root, text=\"Delete Record\")",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "label3",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "label3 = Label(root, text= \"Email\")\npantherid = Entry(root)\nname = Entry(root)\nemail = Entry(root)\n#Create Buttons\naddstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nsearchRecordButton = Button(root, text=\"Search Record\")\ndeleteRecordButton = Button(root, text=\"Delete Record\")\nupdateRecordButton = Button(root, text=\" Update Record\")",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "pantherid",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "pantherid = Entry(root)\nname = Entry(root)\nemail = Entry(root)\n#Create Buttons\naddstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nsearchRecordButton = Button(root, text=\"Search Record\")\ndeleteRecordButton = Button(root, text=\"Delete Record\")\nupdateRecordButton = Button(root, text=\" Update Record\")\nexportButton = Button(root, text=\"Export to CSV\")",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "name = Entry(root)\nemail = Entry(root)\n#Create Buttons\naddstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nsearchRecordButton = Button(root, text=\"Search Record\")\ndeleteRecordButton = Button(root, text=\"Delete Record\")\nupdateRecordButton = Button(root, text=\" Update Record\")\nexportButton = Button(root, text=\"Export to CSV\")\nOutputText = Text(root)",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "email",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "email = Entry(root)\n#Create Buttons\naddstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nsearchRecordButton = Button(root, text=\"Search Record\")\ndeleteRecordButton = Button(root, text=\"Delete Record\")\nupdateRecordButton = Button(root, text=\" Update Record\")\nexportButton = Button(root, text=\"Export to CSV\")\nOutputText = Text(root)\n#Grid Poistioning",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "addstudentButton",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "addstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nsearchRecordButton = Button(root, text=\"Search Record\")\ndeleteRecordButton = Button(root, text=\"Delete Record\")\nupdateRecordButton = Button(root, text=\" Update Record\")\nexportButton = Button(root, text=\"Export to CSV\")\nOutputText = Text(root)\n#Grid Poistioning\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "listStudentButton",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "listStudentButton = Button(root, text=\"List Students\")\nsearchRecordButton = Button(root, text=\"Search Record\")\ndeleteRecordButton = Button(root, text=\"Delete Record\")\nupdateRecordButton = Button(root, text=\" Update Record\")\nexportButton = Button(root, text=\"Export to CSV\")\nOutputText = Text(root)\n#Grid Poistioning\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)\nlabel3.grid(row=2,column=0)",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "searchRecordButton",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "searchRecordButton = Button(root, text=\"Search Record\")\ndeleteRecordButton = Button(root, text=\"Delete Record\")\nupdateRecordButton = Button(root, text=\" Update Record\")\nexportButton = Button(root, text=\"Export to CSV\")\nOutputText = Text(root)\n#Grid Poistioning\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)\nlabel3.grid(row=2,column=0)\npantherid.grid(row=0,column=1)",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "deleteRecordButton",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "deleteRecordButton = Button(root, text=\"Delete Record\")\nupdateRecordButton = Button(root, text=\" Update Record\")\nexportButton = Button(root, text=\"Export to CSV\")\nOutputText = Text(root)\n#Grid Poistioning\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)\nlabel3.grid(row=2,column=0)\npantherid.grid(row=0,column=1)\nname.grid(row=1,column=1)",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "updateRecordButton",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "updateRecordButton = Button(root, text=\" Update Record\")\nexportButton = Button(root, text=\"Export to CSV\")\nOutputText = Text(root)\n#Grid Poistioning\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)\nlabel3.grid(row=2,column=0)\npantherid.grid(row=0,column=1)\nname.grid(row=1,column=1)\nemail.grid(row=2,column=1)",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "exportButton",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "exportButton = Button(root, text=\"Export to CSV\")\nOutputText = Text(root)\n#Grid Poistioning\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)\nlabel3.grid(row=2,column=0)\npantherid.grid(row=0,column=1)\nname.grid(row=1,column=1)\nemail.grid(row=2,column=1)\naddstudentButton.grid(row=3,column=0,columnspan=1)",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "OutputText",
+        "kind": 5,
+        "importPath": "HW5.studentrecords",
+        "description": "HW5.studentrecords",
+        "peekOfCode": "OutputText = Text(root)\n#Grid Poistioning\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)\nlabel3.grid(row=2,column=0)\npantherid.grid(row=0,column=1)\nname.grid(row=1,column=1)\nemail.grid(row=2,column=1)\naddstudentButton.grid(row=3,column=0,columnspan=1)\nlistStudentButton.grid(row=4,column=0,columnspan=1)",
+        "detail": "HW5.studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "CanHeVote",
+        "kind": 2,
+        "importPath": "Lab1.Can he work",
+        "description": "Lab1.Can he work",
+        "peekOfCode": "def CanHeVote(age):\n    Voter_age = age\n    if Voter_age >= 18:\n        return \"Yes\"\n    else:\n        return \"No\"\nUser_name = input(\"What is your name?\")\nUser_age = int(input(\"What is your age\"))\nEligibility = CanHeVote(User_age)\nif Eligibility == \"Yes\":",
+        "detail": "Lab1.Can he work",
+        "documentation": {}
+    },
+    {
+        "label": "User_name",
+        "kind": 5,
+        "importPath": "Lab1.Can he work",
+        "description": "Lab1.Can he work",
+        "peekOfCode": "User_name = input(\"What is your name?\")\nUser_age = int(input(\"What is your age\"))\nEligibility = CanHeVote(User_age)\nif Eligibility == \"Yes\":\n    print(f'Congradulations, {User_name}! You are eligible to vote!')\nelse:\n    print(f'Sorry, {User_name}! You are not yet old enough to vote!')",
+        "detail": "Lab1.Can he work",
+        "documentation": {}
+    },
+    {
+        "label": "User_age",
+        "kind": 5,
+        "importPath": "Lab1.Can he work",
+        "description": "Lab1.Can he work",
+        "peekOfCode": "User_age = int(input(\"What is your age\"))\nEligibility = CanHeVote(User_age)\nif Eligibility == \"Yes\":\n    print(f'Congradulations, {User_name}! You are eligible to vote!')\nelse:\n    print(f'Sorry, {User_name}! You are not yet old enough to vote!')",
+        "detail": "Lab1.Can he work",
+        "documentation": {}
+    },
+    {
+        "label": "Eligibility",
+        "kind": 5,
+        "importPath": "Lab1.Can he work",
+        "description": "Lab1.Can he work",
+        "peekOfCode": "Eligibility = CanHeVote(User_age)\nif Eligibility == \"Yes\":\n    print(f'Congradulations, {User_name}! You are eligible to vote!')\nelse:\n    print(f'Sorry, {User_name}! You are not yet old enough to vote!')",
+        "detail": "Lab1.Can he work",
+        "documentation": {}
+    },
+    {
+        "label": "record",
+        "kind": 2,
+        "importPath": "Lab10.keypress",
+        "description": "Lab10.keypress",
+        "peekOfCode": "def record(event):\n    print(f'Key={event.keysym}')\nroot = Tk()\ntxt = Text(root, height=3, width=20)\ntxt.bind('<KeyPress>',record)\ntxt.pack()\nroot.mainloop()",
+        "detail": "Lab10.keypress",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "Lab10.keypress",
+        "description": "Lab10.keypress",
+        "peekOfCode": "root = Tk()\ntxt = Text(root, height=3, width=20)\ntxt.bind('<KeyPress>',record)\ntxt.pack()\nroot.mainloop()",
+        "detail": "Lab10.keypress",
+        "documentation": {}
+    },
+    {
+        "label": "txt",
+        "kind": 5,
+        "importPath": "Lab10.keypress",
+        "description": "Lab10.keypress",
+        "peekOfCode": "txt = Text(root, height=3, width=20)\ntxt.bind('<KeyPress>',record)\ntxt.pack()\nroot.mainloop()",
+        "detail": "Lab10.keypress",
+        "documentation": {}
+    },
+    {
+        "label": "Keypress",
+        "kind": 2,
+        "importPath": "Lab10.lab10",
+        "description": "Lab10.lab10",
+        "peekOfCode": "def Keypress(event):\n    try:\n        print(f'Key={event.keysym}')\n        Character = event.keysym\n        #Tells if input is anumber\n        Isnumber = Character.isdigit()\n        IsATOZ = Character.isalnum()\n        #Tells if input is anumber\n        if Isnumber == True:\n            TextOutput.insert(END,\"It is a number\\n\")",
+        "detail": "Lab10.lab10",
+        "documentation": {}
+    },
+    {
+        "label": "connect",
+        "kind": 5,
+        "importPath": "Lab10.lab10",
+        "description": "Lab10.lab10",
+        "peekOfCode": "connect = sqlite3.connect('keypress.db')\ncursor = connect.cursor()\nroot = Tk()\nroot.title(\"What character is it?\")\nroot.geometry(\"680x480\")\nCharacterEntry = Entry(root)\nCharacterEntry.grid(row=1,column=2)\nTextOutput = Text(root)\nTextOutput.grid(row=2, column=2)\nEnterLabel = Label(root,text='Press any key')",
+        "detail": "Lab10.lab10",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "Lab10.lab10",
+        "description": "Lab10.lab10",
+        "peekOfCode": "cursor = connect.cursor()\nroot = Tk()\nroot.title(\"What character is it?\")\nroot.geometry(\"680x480\")\nCharacterEntry = Entry(root)\nCharacterEntry.grid(row=1,column=2)\nTextOutput = Text(root)\nTextOutput.grid(row=2, column=2)\nEnterLabel = Label(root,text='Press any key')\nEnterLabel.grid(row=0,column=2)",
+        "detail": "Lab10.lab10",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "Lab10.lab10",
+        "description": "Lab10.lab10",
+        "peekOfCode": "root = Tk()\nroot.title(\"What character is it?\")\nroot.geometry(\"680x480\")\nCharacterEntry = Entry(root)\nCharacterEntry.grid(row=1,column=2)\nTextOutput = Text(root)\nTextOutput.grid(row=2, column=2)\nEnterLabel = Label(root,text='Press any key')\nEnterLabel.grid(row=0,column=2)\nCharacterEntry.bind(\"<Key>\",Keypress)",
+        "detail": "Lab10.lab10",
+        "documentation": {}
+    },
+    {
+        "label": "CharacterEntry",
+        "kind": 5,
+        "importPath": "Lab10.lab10",
+        "description": "Lab10.lab10",
+        "peekOfCode": "CharacterEntry = Entry(root)\nCharacterEntry.grid(row=1,column=2)\nTextOutput = Text(root)\nTextOutput.grid(row=2, column=2)\nEnterLabel = Label(root,text='Press any key')\nEnterLabel.grid(row=0,column=2)\nCharacterEntry.bind(\"<Key>\",Keypress)\nroot.mainloop()",
+        "detail": "Lab10.lab10",
+        "documentation": {}
+    },
+    {
+        "label": "TextOutput",
+        "kind": 5,
+        "importPath": "Lab10.lab10",
+        "description": "Lab10.lab10",
+        "peekOfCode": "TextOutput = Text(root)\nTextOutput.grid(row=2, column=2)\nEnterLabel = Label(root,text='Press any key')\nEnterLabel.grid(row=0,column=2)\nCharacterEntry.bind(\"<Key>\",Keypress)\nroot.mainloop()",
+        "detail": "Lab10.lab10",
+        "documentation": {}
+    },
+    {
+        "label": "EnterLabel",
+        "kind": 5,
+        "importPath": "Lab10.lab10",
+        "description": "Lab10.lab10",
+        "peekOfCode": "EnterLabel = Label(root,text='Press any key')\nEnterLabel.grid(row=0,column=2)\nCharacterEntry.bind(\"<Key>\",Keypress)\nroot.mainloop()",
+        "detail": "Lab10.lab10",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "description": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "peekOfCode": "arr = np.zeros((4,5),int)\nprint(arr)\nprint(\"\\n\")\narr = np.insert(arr,1,7,0)\nprint(arr)\nprint(\"\\n\")\narr = np.insert(arr,1,5,1)\nprint(\"\\n\")\nprint(arr)\narr = np.delete(arr,0,0)",
+        "detail": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "description": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "peekOfCode": "arr = np.insert(arr,1,7,0)\nprint(arr)\nprint(\"\\n\")\narr = np.insert(arr,1,5,1)\nprint(\"\\n\")\nprint(arr)\narr = np.delete(arr,0,0)\nprint(\"\\n\")\nprint(arr)\narr = np.delete(arr,0,1)",
+        "detail": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "description": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "peekOfCode": "arr = np.insert(arr,1,5,1)\nprint(\"\\n\")\nprint(arr)\narr = np.delete(arr,0,0)\nprint(\"\\n\")\nprint(arr)\narr = np.delete(arr,0,1)\nprint(\"\\n\")\nprint(arr)\narr = np.sort(arr,0)",
+        "detail": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "description": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "peekOfCode": "arr = np.delete(arr,0,0)\nprint(\"\\n\")\nprint(arr)\narr = np.delete(arr,0,1)\nprint(\"\\n\")\nprint(arr)\narr = np.sort(arr,0)\nprint(\"\\n\")\nprint(arr)\narr = np.ravel(arr,order=\"C\")",
+        "detail": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "description": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "peekOfCode": "arr = np.delete(arr,0,1)\nprint(\"\\n\")\nprint(arr)\narr = np.sort(arr,0)\nprint(\"\\n\")\nprint(arr)\narr = np.ravel(arr,order=\"C\")\nprint(\"\\n\")\nprint(arr)\n'''",
+        "detail": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "description": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "peekOfCode": "arr = np.sort(arr,0)\nprint(\"\\n\")\nprint(arr)\narr = np.ravel(arr,order=\"C\")\nprint(\"\\n\")\nprint(arr)\n'''\nCreates an ndarray of shape (4, 5) where each element = 0.\nInserts a new row after the first row, where each element of the new row = 7\nInserts a new column after the first column, where each element of the new column = 5",
+        "detail": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "description": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "peekOfCode": "arr = np.ravel(arr,order=\"C\")\nprint(\"\\n\")\nprint(arr)\n'''\nCreates an ndarray of shape (4, 5) where each element = 0.\nInserts a new row after the first row, where each element of the new row = 7\nInserts a new column after the first column, where each element of the new column = 5\nDeletes the first row\nDeletes the first column\nSorts the array along the columns in ascending order",
+        "detail": "Lab11.JORDAN_GAFFNEY_Lab11",
+        "documentation": {}
+    },
+    {
+        "label": "revenue",
+        "kind": 5,
+        "importPath": "Lab12.JORDAN_GAFFNEY_Lab12",
+        "description": "Lab12.JORDAN_GAFFNEY_Lab12",
+        "peekOfCode": "revenue = pd.Series([1000, 900, 1100, 400, 2000], ['Mon', 'Tue', 'Wed', 'Thu', 'Fri'], dtype=int,\nname='revenue')\nprint(revenue)\nexpenses = pd.Series([900, 900, 900, 900, 900], ['Mon', 'Tue', 'Wed', 'Thu', 'Fri'], dtype=int, name='expenses')\nprint(expenses)\nprint(revenue['Wed'])\nprint(expenses[1:4])\nnetprofit = (revenue-expenses)\naverage = netprofit.mean()\nprint(average)",
+        "detail": "Lab12.JORDAN_GAFFNEY_Lab12",
+        "documentation": {}
+    },
+    {
+        "label": "expenses",
+        "kind": 5,
+        "importPath": "Lab12.JORDAN_GAFFNEY_Lab12",
+        "description": "Lab12.JORDAN_GAFFNEY_Lab12",
+        "peekOfCode": "expenses = pd.Series([900, 900, 900, 900, 900], ['Mon', 'Tue', 'Wed', 'Thu', 'Fri'], dtype=int, name='expenses')\nprint(expenses)\nprint(revenue['Wed'])\nprint(expenses[1:4])\nnetprofit = (revenue-expenses)\naverage = netprofit.mean()\nprint(average)",
+        "detail": "Lab12.JORDAN_GAFFNEY_Lab12",
+        "documentation": {}
+    },
+    {
+        "label": "netprofit",
+        "kind": 5,
+        "importPath": "Lab12.JORDAN_GAFFNEY_Lab12",
+        "description": "Lab12.JORDAN_GAFFNEY_Lab12",
+        "peekOfCode": "netprofit = (revenue-expenses)\naverage = netprofit.mean()\nprint(average)",
+        "detail": "Lab12.JORDAN_GAFFNEY_Lab12",
+        "documentation": {}
+    },
+    {
+        "label": "average",
+        "kind": 5,
+        "importPath": "Lab12.JORDAN_GAFFNEY_Lab12",
+        "description": "Lab12.JORDAN_GAFFNEY_Lab12",
+        "peekOfCode": "average = netprofit.mean()\nprint(average)",
+        "detail": "Lab12.JORDAN_GAFFNEY_Lab12",
+        "documentation": {}
+    },
+    {
+        "label": "WeatherData",
+        "kind": 5,
+        "importPath": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "description": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "peekOfCode": "WeatherData = pd.read_csv(r\"C:\\Users\\Jordan\\OneDrive\\Documents\\Python\\CS1302\\Lab14\\atlanta_weather.csv\")\n# Print the DataFrame\nprint(WeatherData)\n# Assuming you want to plot the second column for the first two rows\nHigh = WeatherData.High\nLow = WeatherData.Low\nHighGraph = plt.plot(WeatherData.Month, High,'b--o')\nLowGraph = plt.plot(WeatherData.Month, Low,'g:^')\nTitle = plt.title('Atlanta – Monthly Temperature', fontsize=20)\nXlabel = plt.xlabel('Temperature (Fahrenheit)',fontsize=16)",
+        "detail": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "documentation": {}
+    },
+    {
+        "label": "High",
+        "kind": 5,
+        "importPath": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "description": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "peekOfCode": "High = WeatherData.High\nLow = WeatherData.Low\nHighGraph = plt.plot(WeatherData.Month, High,'b--o')\nLowGraph = plt.plot(WeatherData.Month, Low,'g:^')\nTitle = plt.title('Atlanta – Monthly Temperature', fontsize=20)\nXlabel = plt.xlabel('Temperature (Fahrenheit)',fontsize=16)\nYlabel = plt.ylabel('Month',fontsize=16)\nPlotLegend = plt.legend(fontsize=20)\nplt.annotate('Highest Temperature of the Year', arrowprops=dict(facecolor='black'), xy=('Jul',89), xytext=('Apr',75))\nplt.show()",
+        "detail": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "documentation": {}
+    },
+    {
+        "label": "Low",
+        "kind": 5,
+        "importPath": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "description": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "peekOfCode": "Low = WeatherData.Low\nHighGraph = plt.plot(WeatherData.Month, High,'b--o')\nLowGraph = plt.plot(WeatherData.Month, Low,'g:^')\nTitle = plt.title('Atlanta – Monthly Temperature', fontsize=20)\nXlabel = plt.xlabel('Temperature (Fahrenheit)',fontsize=16)\nYlabel = plt.ylabel('Month',fontsize=16)\nPlotLegend = plt.legend(fontsize=20)\nplt.annotate('Highest Temperature of the Year', arrowprops=dict(facecolor='black'), xy=('Jul',89), xytext=('Apr',75))\nplt.show()\nplt.savefig('atlanta_weather_plot.jpg')",
+        "detail": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "documentation": {}
+    },
+    {
+        "label": "HighGraph",
+        "kind": 5,
+        "importPath": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "description": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "peekOfCode": "HighGraph = plt.plot(WeatherData.Month, High,'b--o')\nLowGraph = plt.plot(WeatherData.Month, Low,'g:^')\nTitle = plt.title('Atlanta – Monthly Temperature', fontsize=20)\nXlabel = plt.xlabel('Temperature (Fahrenheit)',fontsize=16)\nYlabel = plt.ylabel('Month',fontsize=16)\nPlotLegend = plt.legend(fontsize=20)\nplt.annotate('Highest Temperature of the Year', arrowprops=dict(facecolor='black'), xy=('Jul',89), xytext=('Apr',75))\nplt.show()\nplt.savefig('atlanta_weather_plot.jpg')",
+        "detail": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "documentation": {}
+    },
+    {
+        "label": "LowGraph",
+        "kind": 5,
+        "importPath": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "description": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "peekOfCode": "LowGraph = plt.plot(WeatherData.Month, Low,'g:^')\nTitle = plt.title('Atlanta – Monthly Temperature', fontsize=20)\nXlabel = plt.xlabel('Temperature (Fahrenheit)',fontsize=16)\nYlabel = plt.ylabel('Month',fontsize=16)\nPlotLegend = plt.legend(fontsize=20)\nplt.annotate('Highest Temperature of the Year', arrowprops=dict(facecolor='black'), xy=('Jul',89), xytext=('Apr',75))\nplt.show()\nplt.savefig('atlanta_weather_plot.jpg')",
+        "detail": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "documentation": {}
+    },
+    {
+        "label": "Title",
+        "kind": 5,
+        "importPath": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "description": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "peekOfCode": "Title = plt.title('Atlanta – Monthly Temperature', fontsize=20)\nXlabel = plt.xlabel('Temperature (Fahrenheit)',fontsize=16)\nYlabel = plt.ylabel('Month',fontsize=16)\nPlotLegend = plt.legend(fontsize=20)\nplt.annotate('Highest Temperature of the Year', arrowprops=dict(facecolor='black'), xy=('Jul',89), xytext=('Apr',75))\nplt.show()\nplt.savefig('atlanta_weather_plot.jpg')",
+        "detail": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "documentation": {}
+    },
+    {
+        "label": "Xlabel",
+        "kind": 5,
+        "importPath": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "description": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "peekOfCode": "Xlabel = plt.xlabel('Temperature (Fahrenheit)',fontsize=16)\nYlabel = plt.ylabel('Month',fontsize=16)\nPlotLegend = plt.legend(fontsize=20)\nplt.annotate('Highest Temperature of the Year', arrowprops=dict(facecolor='black'), xy=('Jul',89), xytext=('Apr',75))\nplt.show()\nplt.savefig('atlanta_weather_plot.jpg')",
+        "detail": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "documentation": {}
+    },
+    {
+        "label": "Ylabel",
+        "kind": 5,
+        "importPath": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "description": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "peekOfCode": "Ylabel = plt.ylabel('Month',fontsize=16)\nPlotLegend = plt.legend(fontsize=20)\nplt.annotate('Highest Temperature of the Year', arrowprops=dict(facecolor='black'), xy=('Jul',89), xytext=('Apr',75))\nplt.show()\nplt.savefig('atlanta_weather_plot.jpg')",
+        "detail": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "documentation": {}
+    },
+    {
+        "label": "PlotLegend",
+        "kind": 5,
+        "importPath": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "description": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "peekOfCode": "PlotLegend = plt.legend(fontsize=20)\nplt.annotate('Highest Temperature of the Year', arrowprops=dict(facecolor='black'), xy=('Jul',89), xytext=('Apr',75))\nplt.show()\nplt.savefig('atlanta_weather_plot.jpg')",
+        "detail": "Lab14.JORDAN_GAFFNEY_LAB14",
+        "documentation": {}
+    },
+    {
+        "label": "BankAccount",
+        "kind": 6,
+        "importPath": "Lab2.JORDAN_GAFFNEY_LAB2",
+        "description": "Lab2.JORDAN_GAFFNEY_LAB2",
+        "peekOfCode": "class BankAccount():      \n# TODO: Define constructor with parameters to initialize instance attribute\n    def __init__(self,name,checking,savings):\n        self.checking_balance = savings\n        self.savings_balance = checking\n        self.name = name\n# TODO: Define deposit_checking() method   \n    def deposit_checking(self,amount):\n        if amount < 0:\n            print(\"Amount Must be positive\")",
+        "detail": "Lab2.JORDAN_GAFFNEY_LAB2",
+        "documentation": {}
+    },
+    {
+        "label": "account",
+        "kind": 5,
+        "importPath": "Lab2.JORDAN_GAFFNEY_LAB2",
+        "description": "Lab2.JORDAN_GAFFNEY_LAB2",
+        "peekOfCode": "account = BankAccount(\"Mickey\", 500.00, 1000.00)    \naccount.checking_balance = 500    \naccount.savings_balance = 500    \naccount.withdraw_savings(100)    \naccount.withdraw_checking(100)    \naccount.transfer_to_savings(300)    \nprint(account.name)    \nprint(f'${account.checking_balance:.2f}')    \nprint(f'${account.savings_balance:.2f}')",
+        "detail": "Lab2.JORDAN_GAFFNEY_LAB2",
+        "documentation": {}
+    },
+    {
+        "label": "account.checking_balance",
+        "kind": 5,
+        "importPath": "Lab2.JORDAN_GAFFNEY_LAB2",
+        "description": "Lab2.JORDAN_GAFFNEY_LAB2",
+        "peekOfCode": "account.checking_balance = 500    \naccount.savings_balance = 500    \naccount.withdraw_savings(100)    \naccount.withdraw_checking(100)    \naccount.transfer_to_savings(300)    \nprint(account.name)    \nprint(f'${account.checking_balance:.2f}')    \nprint(f'${account.savings_balance:.2f}')",
+        "detail": "Lab2.JORDAN_GAFFNEY_LAB2",
+        "documentation": {}
+    },
+    {
+        "label": "account.savings_balance",
+        "kind": 5,
+        "importPath": "Lab2.JORDAN_GAFFNEY_LAB2",
+        "description": "Lab2.JORDAN_GAFFNEY_LAB2",
+        "peekOfCode": "account.savings_balance = 500    \naccount.withdraw_savings(100)    \naccount.withdraw_checking(100)    \naccount.transfer_to_savings(300)    \nprint(account.name)    \nprint(f'${account.checking_balance:.2f}')    \nprint(f'${account.savings_balance:.2f}')",
+        "detail": "Lab2.JORDAN_GAFFNEY_LAB2",
+        "documentation": {}
+    },
+    {
+        "label": "Location",
+        "kind": 6,
+        "importPath": "Lab3.JORDAN_GAFFNEY_LAB3",
+        "description": "Lab3.JORDAN_GAFFNEY_LAB3",
+        "peekOfCode": "class Location():\n    def __init__(self,x = 0,y=0,):\n        self.x = x\n        self.y = y\n    def __le__(self,other):\n        return (self.x and self.y) <= (other.x and other.y)\n    def __ge__(self,other):\n        return (self.x and self.y) >= (other.x and other.y)\n    def __eq__(self,other):\n        return (self.x and self.y) == (other.x and other.y)",
+        "detail": "Lab3.JORDAN_GAFFNEY_LAB3",
+        "documentation": {}
+    },
+    {
+        "label": "Position",
+        "kind": 5,
+        "importPath": "Lab3.JORDAN_GAFFNEY_LAB3",
+        "description": "Lab3.JORDAN_GAFFNEY_LAB3",
+        "peekOfCode": "Position = Location(3,4)\nOther_Position = Location(5,8)\nprint(Position == Other_Position)\nprint(Position <= Other_Position)\nprint(Position >= Other_Position)",
+        "detail": "Lab3.JORDAN_GAFFNEY_LAB3",
+        "documentation": {}
+    },
+    {
+        "label": "Other_Position",
+        "kind": 5,
+        "importPath": "Lab3.JORDAN_GAFFNEY_LAB3",
+        "description": "Lab3.JORDAN_GAFFNEY_LAB3",
+        "peekOfCode": "Other_Position = Location(5,8)\nprint(Position == Other_Position)\nprint(Position <= Other_Position)\nprint(Position >= Other_Position)",
+        "detail": "Lab3.JORDAN_GAFFNEY_LAB3",
+        "documentation": {}
+    },
+    {
+        "label": "TribFib",
+        "kind": 2,
+        "importPath": "Lab4.JORDAN_GAFFNEU_LAB4",
+        "description": "Lab4.JORDAN_GAFFNEU_LAB4",
+        "peekOfCode": "def TribFib(n):\n    if n==0:\n        return 0\n    if n ==1:\n        return 0 \n    if n==2:\n        return 1\n    if n in res:\n        return res[n]\n    ans = TribFib(n-1) + TribFib(n-2) + TribFib(n-3)",
+        "detail": "Lab4.JORDAN_GAFFNEU_LAB4",
+        "documentation": {}
+    },
+    {
+        "label": "res",
+        "kind": 5,
+        "importPath": "Lab4.JORDAN_GAFFNEU_LAB4",
+        "description": "Lab4.JORDAN_GAFFNEU_LAB4",
+        "peekOfCode": "res = {}\nprint(TribFib(\"What is the sequence\"))",
+        "detail": "Lab4.JORDAN_GAFFNEU_LAB4",
+        "documentation": {}
+    },
+    {
+        "label": "binary_search",
+        "kind": 2,
+        "importPath": "Lab5.JORDAN_GAFFNEY_LAB5",
+        "description": "Lab5.JORDAN_GAFFNEY_LAB5",
+        "peekOfCode": "def binary_search(arr, target):\n    low = 0 \n    high = len (arr) - 1\n    count = 0\n    while low <= high:\n        count += 1\n        mid = (low + high)// 2\n        if target == arr[mid]:\n            print(f'Target = {target} Found at index = {mid} Number of iterations = {count}')\n            return mid",
+        "detail": "Lab5.JORDAN_GAFFNEY_LAB5",
+        "documentation": {}
+    },
+    {
+        "label": "file",
+        "kind": 5,
+        "importPath": "Lab5.JORDAN_GAFFNEY_LAB5",
+        "description": "Lab5.JORDAN_GAFFNEY_LAB5",
+        "peekOfCode": "file = open(\"C:\\\\Users\\\\Jordan\\\\OneDrive\\\\Documents\\\\Python\\\\CS1302\\\\Lab5\\\\words.txt\")\nwords = file.read().splitlines()\nprint('Number of words read:', len(words))\ndef binary_search(arr, target):\n    low = 0 \n    high = len (arr) - 1\n    count = 0\n    while low <= high:\n        count += 1\n        mid = (low + high)// 2",
+        "detail": "Lab5.JORDAN_GAFFNEY_LAB5",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "Lab5.JORDAN_GAFFNEY_LAB5",
+        "description": "Lab5.JORDAN_GAFFNEY_LAB5",
+        "peekOfCode": "words = file.read().splitlines()\nprint('Number of words read:', len(words))\ndef binary_search(arr, target):\n    low = 0 \n    high = len (arr) - 1\n    count = 0\n    while low <= high:\n        count += 1\n        mid = (low + high)// 2\n        if target == arr[mid]:",
+        "detail": "Lab5.JORDAN_GAFFNEY_LAB5",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "Lab5.JORDAN_GAFFNEY_LAB5",
+        "description": "Lab5.JORDAN_GAFFNEY_LAB5",
+        "peekOfCode": "target = input('Enter search key: ').lower()\nwhile target != 'exit':\n    binary_search(words, target)\n    target = input('Enter search key: ').lower()",
+        "detail": "Lab5.JORDAN_GAFFNEY_LAB5",
+        "documentation": {}
+    },
+    {
+        "label": "quick_sort",
+        "kind": 2,
+        "importPath": "Lab6.Lab6",
+        "description": "Lab6.Lab6",
+        "peekOfCode": "def quick_sort(arr, start, end):\n#TODO: Implement this recursive quick sort method. \n# This method \tshould also print  the array segment (between start and end index) \tbefore partitioning, the pivot, \n# and the segment after partitioning\n    if start < end:\n        # Print the header for this sorting step\n        print(f\"------ Quick sorting from index: {start} to {end} -----\")\n        # Print the array segment before partitioning\n        print(\"Array segment before partitioning:\", \" \".join(map(str, arr[start:end+1])))\n        # Partition the array and get the pivot index",
+        "detail": "Lab6.Lab6",
+        "documentation": {}
+    },
+    {
+        "label": "partition",
+        "kind": 2,
+        "importPath": "Lab6.Lab6",
+        "description": "Lab6.Lab6",
+        "peekOfCode": "def partition(arr, low, high):\n#TODO: Implement this method. \n# This method should partition the \tarray segment (between low and high) based on the pivot.\n    # Choose the rightmost element as the pivot\n    pivot = arr[high]\n    i = low - 1\n    for j in range(low, high):\n        if arr[j] <= pivot:\n            i += 1\n            # Swap arr[i] and arr[j]",
+        "detail": "Lab6.Lab6",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "Lab6.Lab6",
+        "description": "Lab6.Lab6",
+        "peekOfCode": "arr = [11, 12, 1, 9, 6, 5, 4, 7]\nquick_sort(arr, 0, len(arr) - 1)\nprint('The final sorted array:', arr)",
+        "detail": "Lab6.Lab6",
+        "documentation": {}
+    },
+    {
+        "label": "quick_sort",
+        "kind": 2,
+        "importPath": "Lab6 copy.JODAN_GAFFNEY_LAB6.PY",
+        "description": "Lab6 copy.JODAN_GAFFNEY_LAB6.PY",
+        "peekOfCode": "def quick_sort(arr, start, end):\n#TODO: Implement this recursive quick sort method. \n# This method should also print  the array segment (between start and end index) \tbefore partitioning, the pivot, and the segment after partitioning\n    if start < end:\n        print(f\"------ Quick sorting from index: {start} to {end} -----\")\n        print(\"Array segment before partitioning:\", \" \".join(map(str, arr[start:end+1])))\n        pivot_index = partition(arr, start, end)\n        print(\"Pivot:\", arr[pivot_index])\n        print(\"Array segment after partitioning:\", \" \".join(map(str, arr[start:end+1])))\n        quick_sort(arr, start, pivot_index - 1)",
+        "detail": "Lab6 copy.JODAN_GAFFNEY_LAB6.PY",
+        "documentation": {}
+    },
+    {
+        "label": "partition",
+        "kind": 2,
+        "importPath": "Lab6 copy.JODAN_GAFFNEY_LAB6.PY",
+        "description": "Lab6 copy.JODAN_GAFFNEY_LAB6.PY",
+        "peekOfCode": "def partition(arr, low, high):\n#TODO: Implement this method. This method should partition the \tarray segment (between low and high) based on the pivot.\n    pivot = arr[high]\n    i = low - 1\n    for j in range(low, high):\n        if arr[j] <= pivot:\n            i += 1\n            arr[i], arr[j] = arr[j], arr[i]\n    arr[i + 1], arr[high] = arr[high], arr[i + 1]\n    return i + 1",
+        "detail": "Lab6 copy.JODAN_GAFFNEY_LAB6.PY",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "Lab6 copy.JODAN_GAFFNEY_LAB6.PY",
+        "description": "Lab6 copy.JODAN_GAFFNEY_LAB6.PY",
+        "peekOfCode": "arr = [11, 12, 1, 9, 6, 5, 4, 7]\nquick_sort(arr, 0, len(arr) - 1)\nprint('The final sorted array:', arr)",
+        "detail": "Lab6 copy.JODAN_GAFFNEY_LAB6.PY",
+        "documentation": {}
+    },
+    {
+        "label": "merge_sort",
+        "kind": 2,
+        "importPath": "Lab7.JORDAN_GAFFNEY_LAB7",
+        "description": "Lab7.JORDAN_GAFFNEY_LAB7",
+        "peekOfCode": "def merge_sort(arr,left,right):\n    if left < right:\n       # calculate the midpoint of the array\n        mid = (left + right) // 2\n       # recursively sort the left and right halves of the array\n        merge_sort(arr, left,mid)\n        merge_sort(arr, mid+1,right)\n        # Merge the sorted halves. \n        merge(arr,left,mid,right)\ndef merge(arr,left,mid,right):",
+        "detail": "Lab7.JORDAN_GAFFNEY_LAB7",
+        "documentation": {}
+    },
+    {
+        "label": "merge",
+        "kind": 2,
+        "importPath": "Lab7.JORDAN_GAFFNEY_LAB7",
+        "description": "Lab7.JORDAN_GAFFNEY_LAB7",
+        "peekOfCode": "def merge(arr,left,mid,right):\n    # calculate the size of the merged array.\n    merged_size = right - left + 1\n    merged = [0]*merged_size\n    i = left\n    j = mid+1\n    k = 0\n    # merge the two halves while keeping descending order\n    while i <= mid and j <= right:\n        # Reverses the function in descending order",
+        "detail": "Lab7.JORDAN_GAFFNEY_LAB7",
+        "documentation": {}
+    },
+    {
+        "label": "nums",
+        "kind": 5,
+        "importPath": "Lab7.JORDAN_GAFFNEY_LAB7",
+        "description": "Lab7.JORDAN_GAFFNEY_LAB7",
+        "peekOfCode": "nums = [11,12,1,9,6,5,4,7]\nmerge_sort(nums,0, len(nums)-1)\n#prints the sorted list\nfor num in nums:\n    print(num, end=' ')",
+        "detail": "Lab7.JORDAN_GAFFNEY_LAB7",
+        "documentation": {}
+    },
+    {
+        "label": "count_words",
+        "kind": 2,
+        "importPath": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "description": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "peekOfCode": "def count_words(line):\n    words = line.split()\n    return len(words)\nfile_path = \"C:\\\\Users\\\\Jordan\\\\OneDrive\\\\Documents\\\\Python\\\\CS1302\\\\Lab9\\\\example.txt\"\ntotal_words = 0\ntotal_lines = 0\nword_counts_per_line = []\nwith open(file_path, 'r') as file:\n    lines = file.readlines()\n    for line_number, line in enumerate(lines, start=1):",
+        "detail": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "description": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "peekOfCode": "file_path = \"C:\\\\Users\\\\Jordan\\\\OneDrive\\\\Documents\\\\Python\\\\CS1302\\\\Lab9\\\\example.txt\"\ntotal_words = 0\ntotal_lines = 0\nword_counts_per_line = []\nwith open(file_path, 'r') as file:\n    lines = file.readlines()\n    for line_number, line in enumerate(lines, start=1):\n        line_word_count = count_words(line)\n        word_counts_per_line.append((line_number, line_word_count))\n        total_words += line_word_count",
+        "detail": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "documentation": {}
+    },
+    {
+        "label": "total_words",
+        "kind": 5,
+        "importPath": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "description": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "peekOfCode": "total_words = 0\ntotal_lines = 0\nword_counts_per_line = []\nwith open(file_path, 'r') as file:\n    lines = file.readlines()\n    for line_number, line in enumerate(lines, start=1):\n        line_word_count = count_words(line)\n        word_counts_per_line.append((line_number, line_word_count))\n        total_words += line_word_count\n        total_lines += 1",
+        "detail": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "documentation": {}
+    },
+    {
+        "label": "total_lines",
+        "kind": 5,
+        "importPath": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "description": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "peekOfCode": "total_lines = 0\nword_counts_per_line = []\nwith open(file_path, 'r') as file:\n    lines = file.readlines()\n    for line_number, line in enumerate(lines, start=1):\n        line_word_count = count_words(line)\n        word_counts_per_line.append((line_number, line_word_count))\n        total_words += line_word_count\n        total_lines += 1\nwith open(file_path, 'w') as output_file:",
+        "detail": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "documentation": {}
+    },
+    {
+        "label": "word_counts_per_line",
+        "kind": 5,
+        "importPath": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "description": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "peekOfCode": "word_counts_per_line = []\nwith open(file_path, 'r') as file:\n    lines = file.readlines()\n    for line_number, line in enumerate(lines, start=1):\n        line_word_count = count_words(line)\n        word_counts_per_line.append((line_number, line_word_count))\n        total_words += line_word_count\n        total_lines += 1\nwith open(file_path, 'w') as output_file:\n    output_file.write(f\"Total number of lines: {total_lines}\\n\")",
+        "detail": "Lab8.JORDAN_GAFFNEY_LAB9",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "description": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "peekOfCode": "conn = sqlite3.connect('store_inventory.db')\ncursor = conn.cursor()\ncommand = '''CREATE TABLE IF NOT\nEXISTS GROCERY (\\\nProductID INTEGER PRIMARY KEY,\\\nProductName TEXT,\\\nUnitPrice FLOAT,\\\nQuantity FLOAT\\\n)'''\ncursor.execute(command)",
+        "detail": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "description": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "peekOfCode": "cursor = conn.cursor()\ncommand = '''CREATE TABLE IF NOT\nEXISTS GROCERY (\\\nProductID INTEGER PRIMARY KEY,\\\nProductName TEXT,\\\nUnitPrice FLOAT,\\\nQuantity FLOAT\\\n)'''\ncursor.execute(command)\ncommand= \"INSERT INTO GROCERY VALUES (001,'Egg','2.0','23')\"",
+        "detail": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "documentation": {}
+    },
+    {
+        "label": "command",
+        "kind": 5,
+        "importPath": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "description": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "peekOfCode": "command = '''CREATE TABLE IF NOT\nEXISTS GROCERY (\\\nProductID INTEGER PRIMARY KEY,\\\nProductName TEXT,\\\nUnitPrice FLOAT,\\\nQuantity FLOAT\\\n)'''\ncursor.execute(command)\ncommand= \"INSERT INTO GROCERY VALUES (001,'Egg','2.0','23')\"\ncursor.execute(command)",
+        "detail": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "documentation": {}
+    },
+    {
+        "label": "command",
+        "kind": 5,
+        "importPath": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "description": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "peekOfCode": "command = (\"SELECT * FROM GROCERY\")\ncursor.execute(command)\n# Fetch all the rows from the result set\nrows = cursor.fetchall()\n# Print the table header\nprint(\"ProductID | ProductName | UnitPrice | Quantity\")\nprint(\"-\" * 45)\n# Iterate through the rows and print each record\nfor row in rows:\n    product_id, product_name, unit_price, quantity = row",
+        "detail": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "documentation": {}
+    },
+    {
+        "label": "rows",
+        "kind": 5,
+        "importPath": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "description": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "peekOfCode": "rows = cursor.fetchall()\n# Print the table header\nprint(\"ProductID | ProductName | UnitPrice | Quantity\")\nprint(\"-\" * 45)\n# Iterate through the rows and print each record\nfor row in rows:\n    product_id, product_name, unit_price, quantity = row\n    print(f\"{product_id:9} | {product_name:11} | {unit_price:9.2f} | {quantity:7.2f}\")\ncommand = '''SELECT ProductName FROM GROCERY WHERE UnitPrice\nBETWEEN 1.0 and 5.0'''",
+        "detail": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "documentation": {}
+    },
+    {
+        "label": "command",
+        "kind": 5,
+        "importPath": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "description": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "peekOfCode": "command = '''SELECT ProductName FROM GROCERY WHERE UnitPrice\nBETWEEN 1.0 and 5.0'''\ncursor.execute(command)\nproduct_names = cursor.fetchall()\nfor product_name in product_names:\n    print(product_name[0])\ncommand = '''SELECT SUM(UnitPrice*Quantity) from GROCERY'''\ncursor.execute(command)\nsum_of_all = cursor.fetchall()\nfor sum in sum_of_all:",
+        "detail": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "documentation": {}
+    },
+    {
+        "label": "product_names",
+        "kind": 5,
+        "importPath": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "description": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "peekOfCode": "product_names = cursor.fetchall()\nfor product_name in product_names:\n    print(product_name[0])\ncommand = '''SELECT SUM(UnitPrice*Quantity) from GROCERY'''\ncursor.execute(command)\nsum_of_all = cursor.fetchall()\nfor sum in sum_of_all:\n    print(sum_of_all[0])",
+        "detail": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "documentation": {}
+    },
+    {
+        "label": "command",
+        "kind": 5,
+        "importPath": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "description": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "peekOfCode": "command = '''SELECT SUM(UnitPrice*Quantity) from GROCERY'''\ncursor.execute(command)\nsum_of_all = cursor.fetchall()\nfor sum in sum_of_all:\n    print(sum_of_all[0])",
+        "detail": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "documentation": {}
+    },
+    {
+        "label": "sum_of_all",
+        "kind": 5,
+        "importPath": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "description": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "peekOfCode": "sum_of_all = cursor.fetchall()\nfor sum in sum_of_all:\n    print(sum_of_all[0])",
+        "detail": "Lab9.JORDAN_GAFFNEY_LAB9_2",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "Calculator Grid",
+        "description": "Calculator Grid",
+        "peekOfCode": "root = Tk()\nlabels = [['1', '2', '3'], # phone dial label texts\n        ['4', '5', '6'], # organized in a grid\n        ['7', '8', '9'],\n        ['*', '0', '#']]\nfor r in range(4): # for every row r = 0, 1, 2, 3\n    for c in range(3): # for every column c = 0, 1, 2\n# create label for row r and column c\n        label = Label(root, relief=RAISED, # raised border\n        padx=10, # make label wide",
+        "detail": "Calculator Grid",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "Calculator Grid",
+        "description": "Calculator Grid",
+        "peekOfCode": "labels = [['1', '2', '3'], # phone dial label texts\n        ['4', '5', '6'], # organized in a grid\n        ['7', '8', '9'],\n        ['*', '0', '#']]\nfor r in range(4): # for every row r = 0, 1, 2, 3\n    for c in range(3): # for every column c = 0, 1, 2\n# create label for row r and column c\n        label = Label(root, relief=RAISED, # raised border\n        padx=10, # make label wide\n        text=labels[r][c]) # label text",
+        "detail": "Calculator Grid",
+        "documentation": {}
+    },
+    {
+        "label": "compute",
+        "kind": 2,
+        "importPath": "Entry_widget",
+        "description": "Entry_widget",
+        "peekOfCode": "def compute():\n    global speedEnt\n    speed = int(speedEnt.get())\n    if speed < 48:\n        showinfo(message=\"Driving too slow\")\n    elif speed > 70:\n        showinfo(message=\"Driving too fast\")\n    else: \n        showinfo(message=\"Speed is within the limtis\")\n        speedEnt.delete(0,'end')",
+        "detail": "Entry_widget",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "Entry_widget",
+        "description": "Entry_widget",
+        "peekOfCode": "root = Tk()\n#label\nlabel = Label(root, text='Enter Speed')\nlabel.grid(row=0, column=0)\n#entry\nspeedEnt = Entry(root)\nspeedEnt.grid(row=0,column=1)\n#button\nbutton = Button(root,text=\"Check speed\",command=compute)\nbutton.grid(row=1, column=0, columnspan=2)",
+        "detail": "Entry_widget",
+        "documentation": {}
+    },
+    {
+        "label": "label",
+        "kind": 5,
+        "importPath": "Entry_widget",
+        "description": "Entry_widget",
+        "peekOfCode": "label = Label(root, text='Enter Speed')\nlabel.grid(row=0, column=0)\n#entry\nspeedEnt = Entry(root)\nspeedEnt.grid(row=0,column=1)\n#button\nbutton = Button(root,text=\"Check speed\",command=compute)\nbutton.grid(row=1, column=0, columnspan=2)\nroot.mainloop()",
+        "detail": "Entry_widget",
+        "documentation": {}
+    },
+    {
+        "label": "speedEnt",
+        "kind": 5,
+        "importPath": "Entry_widget",
+        "description": "Entry_widget",
+        "peekOfCode": "speedEnt = Entry(root)\nspeedEnt.grid(row=0,column=1)\n#button\nbutton = Button(root,text=\"Check speed\",command=compute)\nbutton.grid(row=1, column=0, columnspan=2)\nroot.mainloop()",
+        "detail": "Entry_widget",
+        "documentation": {}
+    },
+    {
+        "label": "button",
+        "kind": 5,
+        "importPath": "Entry_widget",
+        "description": "Entry_widget",
+        "peekOfCode": "button = Button(root,text=\"Check speed\",command=compute)\nbutton.grid(row=1, column=0, columnspan=2)\nroot.mainloop()",
+        "detail": "Entry_widget",
+        "documentation": {}
+    },
+    {
+        "label": "OddNunmberError",
+        "kind": 6,
+        "importPath": "exception",
+        "description": "exception",
+        "peekOfCode": "class OddNunmberError(Exception):\n    def __init__(self, error_messsage):\n        self.msg = error_messsage\nnum = int(input(\"Please enter a number:\"))\nif num%2 == 1:\n    raise OddNunmberError('This program only accepts even numbers')\nprint(\"You have entered \", num)",
+        "detail": "exception",
+        "documentation": {}
+    },
+    {
+        "label": "num",
+        "kind": 5,
+        "importPath": "exception",
+        "description": "exception",
+        "peekOfCode": "num = int(input(\"Please enter a number:\"))\nif num%2 == 1:\n    raise OddNunmberError('This program only accepts even numbers')\nprint(\"You have entered \", num)",
+        "detail": "exception",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "GUITKMODULE",
+        "description": "GUITKMODULE",
+        "peekOfCode": "root = Tk()\n    #set title of gui\nroot.title(\"My App\")\n    #Display text \nlabel = Label(master=root, text=\"Hello World GUI\" )\n    #display image\nphoto = PhotoImage(file='credit.jpg')\nlogo = Label(master=root, image=photo, width= 300, height=300)\nlogo.pack\nlabel.pack()",
+        "detail": "GUITKMODULE",
+        "documentation": {}
+    },
+    {
+        "label": "label",
+        "kind": 5,
+        "importPath": "GUITKMODULE",
+        "description": "GUITKMODULE",
+        "peekOfCode": "label = Label(master=root, text=\"Hello World GUI\" )\n    #display image\nphoto = PhotoImage(file='credit.jpg')\nlogo = Label(master=root, image=photo, width= 300, height=300)\nlogo.pack\nlabel.pack()\nroot.mainloop()",
+        "detail": "GUITKMODULE",
+        "documentation": {}
+    },
+    {
+        "label": "photo",
+        "kind": 5,
+        "importPath": "GUITKMODULE",
+        "description": "GUITKMODULE",
+        "peekOfCode": "photo = PhotoImage(file='credit.jpg')\nlogo = Label(master=root, image=photo, width= 300, height=300)\nlogo.pack\nlabel.pack()\nroot.mainloop()",
+        "detail": "GUITKMODULE",
+        "documentation": {}
+    },
+    {
+        "label": "logo",
+        "kind": 5,
+        "importPath": "GUITKMODULE",
+        "description": "GUITKMODULE",
+        "peekOfCode": "logo = Label(master=root, image=photo, width= 300, height=300)\nlogo.pack\nlabel.pack()\nroot.mainloop()",
+        "detail": "GUITKMODULE",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "importpandas",
+        "description": "importpandas",
+        "peekOfCode": "data = pd.Series([1,2,3,4],[['a','b','c','d']] \n                 ,dtype=int, name= \"sample data\")",
+        "detail": "importpandas",
+        "documentation": {}
+    },
+    {
+        "label": "coins",
+        "kind": 5,
+        "importPath": "marquez",
+        "description": "marquez",
+        "peekOfCode": "coins = float(input(\"Please Enter \"))\nQuarters = 25\nDimes = 10\nNickels = 5\nPennies = 1\nMaxQuarters = math.floor(coins/Quarters)\nTotal_Amount = coins - MaxQuarters*25\nMaxDimes = math.floor(Total_Amount/Dimes)\nTotal_Amount2 = Total_Amount - MaxDimes*10\nMaxNickels = math.floor(Total_Amount2/Nickels)",
+        "detail": "marquez",
+        "documentation": {}
+    },
+    {
+        "label": "Quarters",
+        "kind": 5,
+        "importPath": "marquez",
+        "description": "marquez",
+        "peekOfCode": "Quarters = 25\nDimes = 10\nNickels = 5\nPennies = 1\nMaxQuarters = math.floor(coins/Quarters)\nTotal_Amount = coins - MaxQuarters*25\nMaxDimes = math.floor(Total_Amount/Dimes)\nTotal_Amount2 = Total_Amount - MaxDimes*10\nMaxNickels = math.floor(Total_Amount2/Nickels)\nTotal_Amount3 = Total_Amount2 - MaxNickels*5",
+        "detail": "marquez",
+        "documentation": {}
+    },
+    {
+        "label": "Dimes",
+        "kind": 5,
+        "importPath": "marquez",
+        "description": "marquez",
+        "peekOfCode": "Dimes = 10\nNickels = 5\nPennies = 1\nMaxQuarters = math.floor(coins/Quarters)\nTotal_Amount = coins - MaxQuarters*25\nMaxDimes = math.floor(Total_Amount/Dimes)\nTotal_Amount2 = Total_Amount - MaxDimes*10\nMaxNickels = math.floor(Total_Amount2/Nickels)\nTotal_Amount3 = Total_Amount2 - MaxNickels*5\nMaxPennies = math.floor(Total_Amount3/Pennies)",
+        "detail": "marquez",
+        "documentation": {}
+    },
+    {
+        "label": "Nickels",
+        "kind": 5,
+        "importPath": "marquez",
+        "description": "marquez",
+        "peekOfCode": "Nickels = 5\nPennies = 1\nMaxQuarters = math.floor(coins/Quarters)\nTotal_Amount = coins - MaxQuarters*25\nMaxDimes = math.floor(Total_Amount/Dimes)\nTotal_Amount2 = Total_Amount - MaxDimes*10\nMaxNickels = math.floor(Total_Amount2/Nickels)\nTotal_Amount3 = Total_Amount2 - MaxNickels*5\nMaxPennies = math.floor(Total_Amount3/Pennies)\nTotal_Amount4 = Total_Amount3 - MaxPennies*1",
+        "detail": "marquez",
+        "documentation": {}
+    },
+    {
+        "label": "Pennies",
+        "kind": 5,
+        "importPath": "marquez",
+        "description": "marquez",
+        "peekOfCode": "Pennies = 1\nMaxQuarters = math.floor(coins/Quarters)\nTotal_Amount = coins - MaxQuarters*25\nMaxDimes = math.floor(Total_Amount/Dimes)\nTotal_Amount2 = Total_Amount - MaxDimes*10\nMaxNickels = math.floor(Total_Amount2/Nickels)\nTotal_Amount3 = Total_Amount2 - MaxNickels*5\nMaxPennies = math.floor(Total_Amount3/Pennies)\nTotal_Amount4 = Total_Amount3 - MaxPennies*1\nprint(f'Coins: , {MaxQuarters} quarters, {MaxDimes} dimes ,{MaxNickels} Nickels,{MaxPennies} pennies')",
+        "detail": "marquez",
+        "documentation": {}
+    },
+    {
+        "label": "MaxQuarters",
+        "kind": 5,
+        "importPath": "marquez",
+        "description": "marquez",
+        "peekOfCode": "MaxQuarters = math.floor(coins/Quarters)\nTotal_Amount = coins - MaxQuarters*25\nMaxDimes = math.floor(Total_Amount/Dimes)\nTotal_Amount2 = Total_Amount - MaxDimes*10\nMaxNickels = math.floor(Total_Amount2/Nickels)\nTotal_Amount3 = Total_Amount2 - MaxNickels*5\nMaxPennies = math.floor(Total_Amount3/Pennies)\nTotal_Amount4 = Total_Amount3 - MaxPennies*1\nprint(f'Coins: , {MaxQuarters} quarters, {MaxDimes} dimes ,{MaxNickels} Nickels,{MaxPennies} pennies')",
+        "detail": "marquez",
+        "documentation": {}
+    },
+    {
+        "label": "Total_Amount",
+        "kind": 5,
+        "importPath": "marquez",
+        "description": "marquez",
+        "peekOfCode": "Total_Amount = coins - MaxQuarters*25\nMaxDimes = math.floor(Total_Amount/Dimes)\nTotal_Amount2 = Total_Amount - MaxDimes*10\nMaxNickels = math.floor(Total_Amount2/Nickels)\nTotal_Amount3 = Total_Amount2 - MaxNickels*5\nMaxPennies = math.floor(Total_Amount3/Pennies)\nTotal_Amount4 = Total_Amount3 - MaxPennies*1\nprint(f'Coins: , {MaxQuarters} quarters, {MaxDimes} dimes ,{MaxNickels} Nickels,{MaxPennies} pennies')",
+        "detail": "marquez",
+        "documentation": {}
+    },
+    {
+        "label": "MaxDimes",
+        "kind": 5,
+        "importPath": "marquez",
+        "description": "marquez",
+        "peekOfCode": "MaxDimes = math.floor(Total_Amount/Dimes)\nTotal_Amount2 = Total_Amount - MaxDimes*10\nMaxNickels = math.floor(Total_Amount2/Nickels)\nTotal_Amount3 = Total_Amount2 - MaxNickels*5\nMaxPennies = math.floor(Total_Amount3/Pennies)\nTotal_Amount4 = Total_Amount3 - MaxPennies*1\nprint(f'Coins: , {MaxQuarters} quarters, {MaxDimes} dimes ,{MaxNickels} Nickels,{MaxPennies} pennies')",
+        "detail": "marquez",
+        "documentation": {}
+    },
+    {
+        "label": "Total_Amount2",
+        "kind": 5,
+        "importPath": "marquez",
+        "description": "marquez",
+        "peekOfCode": "Total_Amount2 = Total_Amount - MaxDimes*10\nMaxNickels = math.floor(Total_Amount2/Nickels)\nTotal_Amount3 = Total_Amount2 - MaxNickels*5\nMaxPennies = math.floor(Total_Amount3/Pennies)\nTotal_Amount4 = Total_Amount3 - MaxPennies*1\nprint(f'Coins: , {MaxQuarters} quarters, {MaxDimes} dimes ,{MaxNickels} Nickels,{MaxPennies} pennies')",
+        "detail": "marquez",
+        "documentation": {}
+    },
+    {
+        "label": "MaxNickels",
+        "kind": 5,
+        "importPath": "marquez",
+        "description": "marquez",
+        "peekOfCode": "MaxNickels = math.floor(Total_Amount2/Nickels)\nTotal_Amount3 = Total_Amount2 - MaxNickels*5\nMaxPennies = math.floor(Total_Amount3/Pennies)\nTotal_Amount4 = Total_Amount3 - MaxPennies*1\nprint(f'Coins: , {MaxQuarters} quarters, {MaxDimes} dimes ,{MaxNickels} Nickels,{MaxPennies} pennies')",
+        "detail": "marquez",
+        "documentation": {}
+    },
+    {
+        "label": "Total_Amount3",
+        "kind": 5,
+        "importPath": "marquez",
+        "description": "marquez",
+        "peekOfCode": "Total_Amount3 = Total_Amount2 - MaxNickels*5\nMaxPennies = math.floor(Total_Amount3/Pennies)\nTotal_Amount4 = Total_Amount3 - MaxPennies*1\nprint(f'Coins: , {MaxQuarters} quarters, {MaxDimes} dimes ,{MaxNickels} Nickels,{MaxPennies} pennies')",
+        "detail": "marquez",
+        "documentation": {}
+    },
+    {
+        "label": "MaxPennies",
+        "kind": 5,
+        "importPath": "marquez",
+        "description": "marquez",
+        "peekOfCode": "MaxPennies = math.floor(Total_Amount3/Pennies)\nTotal_Amount4 = Total_Amount3 - MaxPennies*1\nprint(f'Coins: , {MaxQuarters} quarters, {MaxDimes} dimes ,{MaxNickels} Nickels,{MaxPennies} pennies')",
+        "detail": "marquez",
+        "documentation": {}
+    },
+    {
+        "label": "Total_Amount4",
+        "kind": 5,
+        "importPath": "marquez",
+        "description": "marquez",
+        "peekOfCode": "Total_Amount4 = Total_Amount3 - MaxPennies*1\nprint(f'Coins: , {MaxQuarters} quarters, {MaxDimes} dimes ,{MaxNickels} Nickels,{MaxPennies} pennies')",
+        "detail": "marquez",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "numpyarray",
+        "description": "numpyarray",
+        "peekOfCode": "arr = np.array([[1,2],[2,3]])\nprint(type(arr))\nprint(arr.shape)\nprint(arr)\nprint(arr.size)\nprint(arr[1,1])\n#acess first row only\nprint(arr[0,:])\n#aces first row size\nprint(arr[0,:]).size",
+        "detail": "numpyarray",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "numpydelete",
+        "description": "numpydelete",
+        "peekOfCode": "arr = np.array(['z','b','a','d','c'])\nnewarr = np.delete(arr,1,0)\nprint(newarr)",
+        "detail": "numpydelete",
+        "documentation": {}
+    },
+    {
+        "label": "newarr",
+        "kind": 5,
+        "importPath": "numpydelete",
+        "description": "numpydelete",
+        "peekOfCode": "newarr = np.delete(arr,1,0)\nprint(newarr)",
+        "detail": "numpydelete",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "numpyresize",
+        "description": "numpyresize",
+        "peekOfCode": "arr = np.array([[1,3,5], [2,4,6]])\nnew_arr1 = np.resize(arr, (3,3))\nprint(arr)\nprint(new_arr1)",
+        "detail": "numpyresize",
+        "documentation": {}
+    },
+    {
+        "label": "new_arr1",
+        "kind": 5,
+        "importPath": "numpyresize",
+        "description": "numpyresize",
+        "peekOfCode": "new_arr1 = np.resize(arr, (3,3))\nprint(arr)\nprint(new_arr1)",
+        "detail": "numpyresize",
+        "documentation": {}
+    },
+    {
+        "label": "greeting",
+        "kind": 5,
+        "importPath": "randomquez",
+        "description": "randomquez",
+        "peekOfCode": "greeting = [\n    (1,2,3)\n    ,(3,4,5)]\nprint (greeting[0][random.randint(0,2)],greeting[1][random.randint(0,2)])\n'''' ok'''",
+        "detail": "randomquez",
+        "documentation": {}
+    },
+    {
+        "label": "sumDigits",
+        "kind": 2,
+        "importPath": "recursive",
+        "description": "recursive",
+        "peekOfCode": "def sumDigits(sum):\n    if sum < 10:\n        return sum\n    else:\n        digit = sum % 10\n        return digit + sumDigits(sum // 10)\nInputer= int(input(\"Enter an integer: \"))\nresult = sumDigits(Inputer)\nprint(f\"The sum of the digits in {Inputer} is {result}.\")\nenter = []",
+        "detail": "recursive",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "recursive",
+        "description": "recursive",
+        "peekOfCode": "result = sumDigits(Inputer)\nprint(f\"The sum of the digits in {Inputer} is {result}.\")\nenter = []",
+        "detail": "recursive",
+        "documentation": {}
+    },
+    {
+        "label": "enter",
+        "kind": 5,
+        "importPath": "recursive",
+        "description": "recursive",
+        "peekOfCode": "enter = []",
+        "detail": "recursive",
+        "documentation": {}
+    },
+    {
+        "label": "Seat",
+        "kind": 6,
+        "importPath": "Seat_Reserve",
+        "description": "Seat_Reserve",
+        "peekOfCode": "class Seat:\n    def __init__(self, seat_num):\n        self.seat_num = seat_num\n        self.name = ''\n        self.paid = 0.0\n    def reserve(self, customer_name, amount):\n        self.name = customer_name\n        self.paid = amount\n        print('Reservation successful')\n    def cancel_reservation(self):",
+        "detail": "Seat_Reserve",
+        "documentation": {}
+    },
+    {
+        "label": "total_seats",
+        "kind": 5,
+        "importPath": "Seat_Reserve",
+        "description": "Seat_Reserve",
+        "peekOfCode": "total_seats = 5\nseats = []\nfor i in range(total_seats):\n    seats.append(Seat(i))\noption = input('''Enter option\n(print/reserve/cancel/exit):''')\nwhile option != 'exit':\n    if option == 'print':\n        for i in range(total_seats):\n            Seat(i).print_info()",
+        "detail": "Seat_Reserve",
+        "documentation": {}
+    },
+    {
+        "label": "seats",
+        "kind": 5,
+        "importPath": "Seat_Reserve",
+        "description": "Seat_Reserve",
+        "peekOfCode": "seats = []\nfor i in range(total_seats):\n    seats.append(Seat(i))\noption = input('''Enter option\n(print/reserve/cancel/exit):''')\nwhile option != 'exit':\n    if option == 'print':\n        for i in range(total_seats):\n            Seat(i).print_info()\n    elif option=='reserve':",
+        "detail": "Seat_Reserve",
+        "documentation": {}
+    },
+    {
+        "label": "option",
+        "kind": 5,
+        "importPath": "Seat_Reserve",
+        "description": "Seat_Reserve",
+        "peekOfCode": "option = input('''Enter option\n(print/reserve/cancel/exit):''')\nwhile option != 'exit':\n    if option == 'print':\n        for i in range(total_seats):\n            Seat(i).print_info()\n    elif option=='reserve':\n        seat_num = int(input('''Enter seat\nnumber:'''))\n        if seat_num < 0 or seat_num >= total_seats:",
+        "detail": "Seat_Reserve",
+        "documentation": {}
+    },
+    {
+        "label": "option",
+        "kind": 5,
+        "importPath": "Seat_Reserve",
+        "description": "Seat_Reserve",
+        "peekOfCode": "option = input('''Enter option\n(print/reserve/cancel/exit):''')",
+        "detail": "Seat_Reserve",
+        "documentation": {}
+    },
+    {
+        "label": "addstudents",
+        "kind": 2,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "def addstudents():\n    pantheridvar = pantherid.get()\n    namevar = name.get()\n    emailvar = email.get()\n    cursor.execute('INSERT INTO students (pantherid, name, email) VALUES (?, ?, ?)', (pantheridvar, namevar, emailvar))\n    connect.commit()\n    showinfo(message='Student record added.')\n    pantherid.delete(0,END)\n    name.delete(0,END)\n    email.delete(0,END)",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "list_students",
+        "kind": 2,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "def list_students():\n   cursor.execute('SELECT * FROM students')\n   records = cursor.fetchall()\n   OutputText.config(state=NORMAL)\n   OutputText.delete(1.0, END)\n   timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')\n   OutputText.insert(END, f'Student List as of {timestamp}\\n')\n   for record in records:\n        OutputText.insert(END,   f\"PantherID: {record[0]}\\nName: {record[1]}\\nEmail: {record[2]}\\n\\n\") \n#connct to sql database",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "connect",
+        "kind": 5,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "connect = sqlite3.connect('studentrecords.db')\ncursor = connect.cursor()\n#CREATE DATABASE FILE\ncursor.execute('''CREATE TABLE IF NOT EXISTS students (pantherid INTEGER\nPRIMARY KEY, name TEXT, email TEXT)''')\nconnect.commit()\n#create and intialize gui\nroot = Tk()\nroot.title(\"GSU STUDENT RECRODS\")\nroot.geometry(\"1048x700\")",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "cursor = connect.cursor()\n#CREATE DATABASE FILE\ncursor.execute('''CREATE TABLE IF NOT EXISTS students (pantherid INTEGER\nPRIMARY KEY, name TEXT, email TEXT)''')\nconnect.commit()\n#create and intialize gui\nroot = Tk()\nroot.title(\"GSU STUDENT RECRODS\")\nroot.geometry(\"1048x700\")\n#add font ",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "root = Tk()\nroot.title(\"GSU STUDENT RECRODS\")\nroot.geometry(\"1048x700\")\n#add font \n#create font\ncustom_font = font.nametofont(\"TkDefaultFont\") # Start with the default font\ncustom_font.configure(size=18) # Set the desired font size\nroot.option_add(\"*Font\", custom_font)\nlabel1 = Label(root, text= \"Panther ID\")\nlabel2 = Label(root, text= \"Name\")",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "custom_font",
+        "kind": 5,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "custom_font = font.nametofont(\"TkDefaultFont\") # Start with the default font\ncustom_font.configure(size=18) # Set the desired font size\nroot.option_add(\"*Font\", custom_font)\nlabel1 = Label(root, text= \"Panther ID\")\nlabel2 = Label(root, text= \"Name\")\nlabel3 = Label(root, text= \"Email\")\npantherid = Entry(root)\nname = Entry(root)\nemail = Entry(root)\naddstudentButton = Button(root, text=\"Add Student\")",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "label1",
+        "kind": 5,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "label1 = Label(root, text= \"Panther ID\")\nlabel2 = Label(root, text= \"Name\")\nlabel3 = Label(root, text= \"Email\")\npantherid = Entry(root)\nname = Entry(root)\nemail = Entry(root)\naddstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nOutputText = Text(root)\nOutputText.grid",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "label2",
+        "kind": 5,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "label2 = Label(root, text= \"Name\")\nlabel3 = Label(root, text= \"Email\")\npantherid = Entry(root)\nname = Entry(root)\nemail = Entry(root)\naddstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nOutputText = Text(root)\nOutputText.grid\nlabel1.grid(row=0,column=0)",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "label3",
+        "kind": 5,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "label3 = Label(root, text= \"Email\")\npantherid = Entry(root)\nname = Entry(root)\nemail = Entry(root)\naddstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nOutputText = Text(root)\nOutputText.grid\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "pantherid",
+        "kind": 5,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "pantherid = Entry(root)\nname = Entry(root)\nemail = Entry(root)\naddstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nOutputText = Text(root)\nOutputText.grid\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)\nlabel3.grid(row=2,column=0)",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "name = Entry(root)\nemail = Entry(root)\naddstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nOutputText = Text(root)\nOutputText.grid\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)\nlabel3.grid(row=2,column=0)\npantherid.grid(row=0,column=1)",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "email",
+        "kind": 5,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "email = Entry(root)\naddstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nOutputText = Text(root)\nOutputText.grid\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)\nlabel3.grid(row=2,column=0)\npantherid.grid(row=0,column=1)\nname.grid(row=1,column=1)",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "addstudentButton",
+        "kind": 5,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "addstudentButton = Button(root, text=\"Add Student\")\nlistStudentButton = Button(root, text=\"List Students\")\nOutputText = Text(root)\nOutputText.grid\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)\nlabel3.grid(row=2,column=0)\npantherid.grid(row=0,column=1)\nname.grid(row=1,column=1)\nemail.grid(row=2,column=1)",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "listStudentButton",
+        "kind": 5,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "listStudentButton = Button(root, text=\"List Students\")\nOutputText = Text(root)\nOutputText.grid\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)\nlabel3.grid(row=2,column=0)\npantherid.grid(row=0,column=1)\nname.grid(row=1,column=1)\nemail.grid(row=2,column=1)\naddstudentButton.grid(row=3,column=0,columnspan=2)",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "OutputText",
+        "kind": 5,
+        "importPath": "studentrecords",
+        "description": "studentrecords",
+        "peekOfCode": "OutputText = Text(root)\nOutputText.grid\nlabel1.grid(row=0,column=0)\nlabel2.grid(row=1,column=0)\nlabel3.grid(row=2,column=0)\npantherid.grid(row=0,column=1)\nname.grid(row=1,column=1)\nemail.grid(row=2,column=1)\naddstudentButton.grid(row=3,column=0,columnspan=2)\nlistStudentButton.grid(row=4,column=0,columnspan=2)",
+        "detail": "studentrecords",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "text_widget",
+        "description": "text_widget",
+        "peekOfCode": "root = Tk()\ntxt = Text(master=root, width=20, height =5)\ntxt.pack()\nroot.mainloop()\ntxt.insert('END', 'First Line\\n')\ntxt.insert('END', 'Second Line\\n')\n#Get text\nprint('Contents of the Text widget:\\n'),\n#txt.get('1.0','END'))\n#Delete text - delete the first line",
+        "detail": "text_widget",
+        "documentation": {}
+    },
+    {
+        "label": "txt",
+        "kind": 5,
+        "importPath": "text_widget",
+        "description": "text_widget",
+        "peekOfCode": "txt = Text(master=root, width=20, height =5)\ntxt.pack()\nroot.mainloop()\ntxt.insert('END', 'First Line\\n')\ntxt.insert('END', 'Second Line\\n')\n#Get text\nprint('Contents of the Text widget:\\n'),\n#txt.get('1.0','END'))\n#Delete text - delete the first line\n#txt.delete(1.0,2.0)",
+        "detail": "text_widget",
+        "documentation": {}
+    }
+]
